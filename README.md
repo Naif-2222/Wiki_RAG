@@ -12,11 +12,17 @@ with 50 character overlap.
 Markdown header splitter.
 Splits at #, ##, ### boundaries and preserves the header path as metadata. 
 The two strategies are stored in separate Chroma collections so retrieval results can be compared directly in the UI.
-Resources
+Good Resources:
 https://docs.langchain.com/oss/python/langchain/rag
+
 https://www.deeplearning.ai/courses/building-evaluating-advanced-rag
+
 https://www.pinecone.io/learn/retrieval-augmented-generation/
+
 https://www.anthropic.com/engineering/contextual-retrieval
+
 https://jalammar.github.io/illustrated-retrieval-transformer/
+
 https://arxiv.org/abs/2412.15115
+
 https://huggingface.co/docs/transformers/index
